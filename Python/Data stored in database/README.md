@@ -17,7 +17,7 @@ PlayerID\
 PlayerName\
 **PitchingStats**\
 將MLB個人投手數據爬蟲結果存入\
-並加上以下欄位:
+並加上以下欄位:\
 根據前面檔案的ID給\
 StatsID\
 SeasonID\
@@ -25,8 +25,8 @@ PlayerID\
 TeamID\
 **TeamPitchingStats**\
 將MLB團隊投手數據爬蟲結果存入\
-並加上以下欄位:
+並加上以下欄位:\
 根據前面檔案的ID給\
 TStatsID\
 SeasonID\
-TeamID\
+TeamID
